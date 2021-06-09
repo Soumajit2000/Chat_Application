@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ca1399ba-113a-4839-9f0a-bacfeae05ed1/deploy-status)](https://app.netlify.com/sites/connexions-chat-app/deploys)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
